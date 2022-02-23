@@ -43,7 +43,7 @@ const Cards = () => {
             <img className="card-img-top mx-auto" src={continuous} alt="pic1" style={{height:'150px', width:'150px'}} />
             <div className="card-body text" style={{overflow:'auto'}}>
               <h5 className="card-title "><strong>Continuous health monitoring</strong></h5>
-              <p className="card-text">Enable your employees to engage in fruitful activities.</p>
+              <p className="card-text">Our flagship collaborations bring in facilities to continuously monitor your health. The holistic package provides understanding of your health performance and improvements.</p>
             </div>
           </div>
           </div>
