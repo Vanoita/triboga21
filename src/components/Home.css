@@ -1,0 +1,56 @@
+#header{
+    width:100%;
+    height: 100vh;
+    margin-top:70px;
+}
+
+#header h1{
+    margin:0 0 10px 0;
+    font-size: 74px;
+    font-weight: 700;
+    color:black;
+}
+
+#header.brand-name{
+    color: #FFD606;
+}
+#header.logo1{
+    width: 80px;
+    height: 80px;
+
+}
+
+#header h2{
+    color:#484848;
+    font-size: 24px;
+}
+
+#header .btn-get-started{
+    font-weight:500;
+    font-size: 16px;
+    letter-spacing:1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition:0.5s;
+    color: #268451;
+    border: 2px solid #268451;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#header .btn-get-started:hover{
+    background: #268451;
+    color:#fff;
+}
+
+.header-img{
+    text-align: right;
+}
+
+#header .image{
+    height: 100%;
+    width:100%;
+
+}
+
